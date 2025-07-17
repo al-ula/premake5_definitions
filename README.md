@@ -1,2 +1,2 @@
 # Premake5 Definitions
-Incomplete, bad lua library to provide lsp for premake5
+Incomplete, bad, unofficial lua library to enable lsp for premake5 lua scripts.
